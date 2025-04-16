@@ -1,5 +1,5 @@
 <div align="center>
-  <imge>src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="100%"</imge>
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="100%"></img>
 </div>
 <h1 align="center">Hi 👋, I'm Hanh-HK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
